@@ -119,6 +119,10 @@ button.cancel {
     margin-top: 15px;
 }
 
+button.cancel:hover {
+    color: hsl(224, 23%, 55%);
+}
+
 /* This is code copyed from the challange */
 .attribution { 
     font-size: 11px; text-align: center;
